@@ -1,2 +1,0 @@
-conda env create -f homework5 python=3.5
-conda activate homework5
